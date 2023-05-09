@@ -20,5 +20,6 @@ Example: $> rpn.pl "31 2 2 + 5 * +"  => 51
 Ej6_ Test Case for previous Ej
 
 Ej7_ Normalized model to support a particular business
+
 Ej8_ SQL querry to get information about the balance of a particular client to this day
 Ej9_ SQL querry to get all the delinquent clients
