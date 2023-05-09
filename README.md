@@ -10,6 +10,7 @@ Example2: convert(16,"a2", 2) => 10100010
 Example3: convert(10,"10", 16) => "a"
 
 Ej3_ Gets the weather of a particular city from open API
+
 Example: 
 
 $> clima.pl Tokyo
@@ -21,9 +22,10 @@ $> 39°C 75% RH
 Ej4_ Function which takes two parameters one is a text file and the second tells the function if it should encrypt or decrypt using ROT13 replacing the original text file
 
 Ej5_ Input should be a Poland math expression, returns the result
+
 Example: $> rpn.pl "31 2 2 + 5 * +"  => 51
 
-Ej6_ Test Case for previous Ej
+Ej6_ Test Case for previous Ej5
 
 Ej7_ Normalized model to support a particular business
 
